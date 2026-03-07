@@ -24,3 +24,6 @@ The dataset includes:
 - Pandas
 - NumPy
 - Matplotlib
+## Visualization 
+Daily COVID-19 cases in the United Sates using a 7-day rolling average.
+- US COVID Daily Cases = (us_daily_cases.png)

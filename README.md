@@ -1,5 +1,5 @@
 # epidemiology-outbreak-analysis
-This project analyzes real-world infectious disease outbreak data using Python to explore trends in case growth, mortality, and epidemic progression. The goal is to demonstrate how epidemiological time series data can be cleaned, analyzed and visualized to support public health insghts.
+This project analyzes real-world infectious disease outbreak data using Python to explore trends in case growth, mortality, and epidemic progression. The goal is to demonstrate how epidemiological time series data can be cleaned, analyzed and visualized to support public health insights.
 ## Project Goals 
 - Load and clean real outbreak data
 - Analyze case and death trends over time
@@ -25,5 +25,5 @@ The dataset includes:
 - NumPy
 - Matplotlib
 ## Visualization 
-Daily COVID-19 cases in the United Sates using a 7-day rolling average.
+Daily COVID-19 cases in the United States using a 7-day rolling average.
 - US COVID Daily Cases = (us_daily_cases.png)

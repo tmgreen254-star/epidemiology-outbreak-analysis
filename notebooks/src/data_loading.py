@@ -11,5 +11,3 @@ import matplotlib.pyplot as plt
  # Sort by country
 cases_country=cases.groupby("Country/Region").sum().drop(columns=["Lat","Long"])
 deaths_country=deaths.groupby("Country/Region").sum().drop(columns=["Lat","Long"])
-
-
